@@ -57,7 +57,7 @@ A local AI-powered study assistant designed to help students learn more effectiv
 ## 📫 Connect With Me
 
 - 📍 Adelaide, South Australia
-- 💼 LinkedIn: *Coming soon*
+- 💼 LinkedIn: www.linkedin.com/in/yosep-nababan-609741360
 - 💻 GitHub: [Yosep97581](https://github.com/Yosep97581)
 
 ---
